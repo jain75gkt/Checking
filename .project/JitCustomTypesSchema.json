@@ -1,0 +1,51 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 0,
+        "idRef": "NExtractDataGeneric`1_2",
+        "hash": "NExtractDataGeneric`1_2|DataTable|9m9t3rZUSbTHbEcfD6cTXVa5VXb7F5a6y84N7gDizBk",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Flight Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Dept Time",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Duration",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Arrival Time",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Price",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Stops",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Flight Number",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable0",
+        "hash": "NExtractDataGeneric`1_2|DataTable|jBtl77pIybmkpPRhP44T80gHoLvVAzEwbvqDfaTVYE",
+        "assemblyName": "Studio.Generated.TypedDataTable0"
+      }
+    }
+  ]
+}

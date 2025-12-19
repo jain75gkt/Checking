@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zGOcVr1QWUiQadIyNL353A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="5b912815-9dda-43c6-923a-4a98a87f3cba" CvElementArea="817, 719, 281, 61" CvTextArea="899, 736, 118, 28" CvTextArgument="SEARCH" CvType="Button" DesignTimeRectangle="825, 723, 270, 55" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Search' parentid='top-banner' tag='A' /&gt;" Guid="6b959aec-455d-4bce-b3a4-8e1328759f1d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5b912815-9dda-43c6-923a-4a98a87f3cba" CvTextArea="257, 384, 42, 17" CvTextArgument="From" CvType="Text" DesignTimeRectangle="259, 383, 327, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='From' parentid='top-banner' tag='SPAN' type='' class='lbl_input appendBottom10' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='From' /&gt;" Guid="25220925-2d2d-4a12-8452-70bd5d579e8d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="830b6bb727fe24f432deec54cd23a2e1.png" xmlns="">0TtA7kY6uL0-DE0JXW_jJuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

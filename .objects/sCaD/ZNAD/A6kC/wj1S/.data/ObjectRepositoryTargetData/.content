@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lJFvFJqs_UOXFjtP-UIW4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="ee60b624-1b4d-4f0c-98b6-3a58efb0a861" CvTextArea="259, 541, 91, 33" CvTextArgument="*" CvType="Text" DesignTimeRectangle="259, 535, 327, 45" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='fromCity' matching:id='fuzzy' fuzzylevel:id='0.0' tag='INPUT' type='text' aaname='*' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="921f84aa-457b-4f83-881c-ab060b500489" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="235, 490, 375, 128" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='*' /&gt;" Guid="09d5f807-6ff9-4725-aa09-ef849f3a08ce" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="29b84679f0d8941e1e25b1a3f4002b72.png" xmlns="">0Nzo0Nf4Sd0mX6Y-jzD69cw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

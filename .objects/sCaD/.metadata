@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday",
+  "Type": "App",
+  "Id": "sCaDmjLTKEKvUvFWQNawig",
+  "Reference": "iGZXKocK9ky6RtSVKH6LkQ/sCaDmjLTKEKvUvFWQNawig",
+  "Created": "2025-11-19T17:33:48.6077792Z",
+  "Updated": "2025-11-19T17:33:48.6077792Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

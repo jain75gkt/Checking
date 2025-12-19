@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DLPZnF38-Eq1VPli0sLQjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="5a12346a-e5a8-4c42-9fbb-1933b033fe87" CvType="AnyWordGroup" DesignTimeRectangle="611, 597, 447, 27" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='top-banner' tag='DIV' type='' class='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="8c85f831-4529-4a02-9aa6-5e2e6eb11299" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5a12346a-e5a8-4c42-9fbb-1933b033fe87" CvTextArea="785, 542, 292, 23" CvTextArgument="Book round trip for great savings" CvType="Text" DesignTimeRectangle="786, 541, 292, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='' isleaf='1' parentid='top-banner' tag='SPAN' aaname='Book round trip for great savings' matching:class='fuzzy' fuzzylevel:class='0.0' matching:isleaf='fuzzy' fuzzylevel:isleaf='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Book round trip for great savings' /&gt;" Guid="5e8094e6-95f7-4a34-ad12-91e848f88282" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="72a20eaba219c3cde6525be0e87ce8a9.png" xmlns="">0vbuwLf0EE0ij-yFftund8g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

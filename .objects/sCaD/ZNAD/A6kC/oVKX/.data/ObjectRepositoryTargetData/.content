@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xQRhG00o4ECBJyxWC31iRQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" CVScreenId="512c0365-31b1-4271-aa1a-09c86e9b5444" CvTextArea="281, 675, 65, 16" CvTextArgument="*" CvType="Text" DesignTimeRectangle="283, 676, 63, 18" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='*' tag='SPAN' idx='90' /&gt;" Guid="e77d489e-e1b3-43c7-a57d-a462bd5d91aa" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="512c0365-31b1-4271-aa1a-09c86e9b5444" CvTextArea="281, 700, 267, 17" CvTextArgument="*" CvType="Text" DesignTimeRectangle="283, 700, 316, 15" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' isleaf='1' matching:isleaf='fuzzy' fuzzylevel:isleaf='0.0' tag='P' class='font12 greyText appendBottom3' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='*' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Chhatrapati Shivaji International Airport' /&gt;" Guid="0e398fdf-8569-4e0c-b0a7-f59a0d94b654" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7fa1627311717fbf61d2c94f8dfcc6fa.png" xmlns="">0qld1kZpcB0ef-JmCJMDLag</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

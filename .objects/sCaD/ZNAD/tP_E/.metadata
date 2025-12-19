@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Flight Booking, Cheap Flights , Air Tick",
+  "Type": "Screen",
+  "Id": "tP_E8uCnMESsAam8mrs3Kw",
+  "Reference": "iGZXKocK9ky6RtSVKH6LkQ/tP_E8uCnMESsAam8mrs3Kw",
+  "ParentRef": "iGZXKocK9ky6RtSVKH6LkQ/ZNADIjAMRUqzSSbN_Fu28A",
+  "Created": "2025-11-20T18:32:30.4157124Z",
+  "Updated": "2025-11-20T18:32:30.4157124Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

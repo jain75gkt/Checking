@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yfXfZZ5jFk2EkH52yOEJLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" CVScreenId="924e42d5-a9a4-4af3-8333-126857adc68e" DesignTimeRectangle="659, 511, 302, 45" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='toCity' tag='INPUT' type='text' class='fsw_inputField lineHeight36 latoBlack font30' aaname='ToBLR, Bengaluru International Airport India' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="28703c43-4349-49ec-9886-98fd4d67b74c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="636, 466, 349, 128" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='LABEL' class='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='To&amp;#xA;&amp;#xA;BLR, Bengaluru International Airport India' /&gt;" Guid="ee2c29db-46df-431d-baf8-7900e49cdbeb" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7de8dd2babcd309cca10eb0a57b3886d.png" xmlns="">0ZBfgLiI6O0yQz8GRCI5lmQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

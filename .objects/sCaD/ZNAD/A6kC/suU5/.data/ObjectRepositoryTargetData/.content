@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NlulNoc1Rk-EN8YQxPC34Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" CVScreenId="84bbf69f-0a95-41be-bccc-10029f8aa1c1" DesignTimeRectangle="259, 511, 327, 45" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='fromCity' matching:id='fuzzy' fuzzylevel:id='0.0' tag='INPUT' type='text' class='fsw_inputField lineHeight36 latoBlack font30' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="05ac3b6f-7960-428a-919d-9859123a14f9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="235, 466, 375, 128" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='From&amp;#xA;&amp;#xA;DEL, Delhi Airport India' /&gt;" Guid="5b9db624-85c7-444f-acfc-a25805267cea" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8ccf536dff7030e6c4f053e6d49017be.png" xmlns="">0kui89e031EK5L-LFkwZV7A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

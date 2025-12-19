@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LiQfYMG9C0akDar1HrQfCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" CVScreenId="c5560c10-d291-494d-bef5-55202c641774" CvElementArea="1092, 392, 23, 20" CvTextArea="1009, 392, 81, 18" CvTextArgument="Departure" CvType="ArrowButton" DesignTimeRectangle="1009, 391, 149, 21" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Departure' parentid='top-banner' tag='SPAN' /&gt;" Guid="02736ae3-bfc8-4766-b868-38eaa47d8055" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="986, 378, 196, 126" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='LABEL' class='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Departure&amp;#xA;&amp;#xA;21 Nov25&amp;#xA;&amp;#xA;Friday' /&gt;" Guid="92458506-e9e5-4215-bec7-6fe9bc858fbe" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="58abfad031b72506e4d1bd545deb4d27.png" xmlns="">0C1PwiL4xokOp5iDoTsg2Uw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

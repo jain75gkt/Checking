@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WupEWwcUdEiUQ1CvUy70Ig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" CVScreenId="06a15887-8ea3-4391-96ea-8bf26c34944f" CvTextArea="659, 517, 176, 40" CvTextArgument="Bengaluru" CvType="Text" DesignTimeRectangle="659, 511, 302, 45" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='toCity' tag='INPUT' type='text' class='fsw_inputField lineHeight36 latoBlack font30' aaname='ToBLR, Bengaluru International Airport India' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="398740b5-26b8-45df-8259-dcd35ccc6d38" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="636, 466, 349, 128" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='LABEL' class='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='To&amp;#xA;&amp;#xA;BLR, Bengaluru International Airport India' /&gt;" Guid="4c5fc4d5-7fdc-460e-99e2-c7cc6de5ebf8" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2d58a9ca58c6e2891f84073106c9ddf6.png" xmlns="">04nL4Kb1FqE2WqEvSoIPmVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

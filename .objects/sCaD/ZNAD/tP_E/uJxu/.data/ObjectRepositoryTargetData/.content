@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IfEb8Ksc30O6zu7HLiLPhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="c7405263-3eed-4c26-b834-c9362c07764c" CvTextArea="646, 547, 22, 21" CvTextArgument="To" CvType="Text" DesignTimeRectangle="611, 533, 395, 52" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;input' tag='INPUT' /&gt;" Guid="e39b2fb5-bb0f-4a85-b787-61f91de111c2" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c7405263-3eed-4c26-b834-c9362c07764c" CvTextArea="621, 596, 137, 15" CvTextArgument="RECENT SEARCHES" CvType="Text" DesignTimeRectangle="611, 585, 376, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='react-autowhatever-1' tag='P' type='' class='hsw_sectionTitle font12 latoBlack greyText' aaname='Recent Searches' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='RECENT SEARCHES' /&gt;" Guid="e001ba69-c0e5-4e3d-b966-e73ff6af24ea" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4fa2150620c4c2c91054d17d90fcf31e.png" xmlns="">0dJVvFggY0ECzpOpMGd3BqQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

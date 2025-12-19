@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bhqpBWmuAUGq_KSkLTJqzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="6b8dbcbd-4c58-447f-958f-936036d63f31" CvElementArea="601, 597, 31, 27" CvType="Icon" DesignTimeRectangle="609, 603, 20, 17" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-role='button' tag='SPAN' /&gt;" Guid="4a823bcb-7b53-473d-aafe-b78df7fe6d02" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABgAAAAVCAYAAABc6S4mAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAE2SURBVEhL1ZQ9SwNBEEDzO1SUCKKNaGmv+A8s/BWWNiJoZ4IxaPyqImIhsRVBUNKeaUQ4IXYSsVADfmAkXs48WRclN+fBZj0RH0xzM9wbdnY2wS+TkB/i5m8FlQeYOgDnSmbMiRRUHmFwBbrTsH0qs+Z8K3j2YCwPXSlYdqDxJivMCQmun2A0rzufPYZXX1a0R0BQ92F8CzoWYK7YmrHnS1DzYGJXH8t8EV68YKEtH4J6AyYLuvOBLEwfwsyRXajmLu+FQJ27+nlcsXMmBIr9C+jPQt8SFFxwb+yifBe8dYEhK3NyEZIZOL9tzdgTEDSBPRd60jCyqTf5p4T2wG/Cegl6MzC8CuWqrGiPkOCTnAOdKRjKQbUms+ZECtSg1k70Rm+UZNacSIFCzUTdCj/Otyhu/r/gHYwChNE93d2VAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6b8dbcbd-4c58-447f-958f-936036d63f31" CvTextArea="781, 542, 292, 23" CvTextArgument="Book round trip for great savings" CvType="Text" DesignTimeRectangle="782, 541, 292, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='' isleaf='1' parentid='top-banner' tag='SPAN' aaname='Book round trip for great savings' matching:class='fuzzy' fuzzylevel:class='0.0' matching:isleaf='fuzzy' fuzzylevel:isleaf='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Book round trip for great savings' /&gt;" Guid="372eff7c-0364-47e4-be96-daf9b799de6e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="81f8714b502ec226005d71288a13afdb.png" xmlns="">046COYaNe-EK0AExDYH5eSQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

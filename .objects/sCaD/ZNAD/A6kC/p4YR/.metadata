@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ToBengaluruBLR, Bengalu…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "p4YR4lag20SciIHj-peyPg",
+  "Reference": "iGZXKocK9ky6RtSVKH6LkQ/p4YR4lag20SciIHj-peyPg",
+  "ParentRef": "iGZXKocK9ky6RtSVKH6LkQ/A6kCJ2Xw9EGTo8gKDTfNeg",
+  "Created": "2025-11-19T17:42:35.5094309Z",
+  "Updated": "2025-11-19T17:42:35.5094309Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

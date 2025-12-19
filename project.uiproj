@@ -1,0 +1,6 @@
+{
+  "Name": "WebSrapperForFlights",
+  "ProjectType": "Process",
+  "Description": "Web scraping for flights fare and save it to excel",
+  "MainFile": "Main.xaml"
+}

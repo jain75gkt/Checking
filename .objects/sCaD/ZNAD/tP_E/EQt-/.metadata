@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Flights sorted by Lowes…",
+  "Type": "Element",
+  "Id": "EQt-SeLyIEGnV4-mn3j52w",
+  "Reference": "iGZXKocK9ky6RtSVKH6LkQ/EQt-SeLyIEGnV4-mn3j52w",
+  "ParentRef": "iGZXKocK9ky6RtSVKH6LkQ/tP_E8uCnMESsAam8mrs3Kw",
+  "Created": "2025-11-20T20:12:21.1862656Z",
+  "Updated": "2025-11-20T20:12:21.1862656Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

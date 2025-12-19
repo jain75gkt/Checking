@@ -1,0 +1,14 @@
+﻿{
+  "Name": "FromDelhiDEL, Delhi Air…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "suU5MDhQQkiiPJpE6jDAsQ",
+  "Reference": "iGZXKocK9ky6RtSVKH6LkQ/suU5MDhQQkiiPJpE6jDAsQ",
+  "ParentRef": "iGZXKocK9ky6RtSVKH6LkQ/A6kCJ2Xw9EGTo8gKDTfNeg",
+  "Created": "2025-11-19T17:40:42.8096693Z",
+  "Updated": "2025-11-19T17:40:42.8096693Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "DepartureWednesday, 19 …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "KTd3ZPEkS02WaiP0NBJwfw",
+  "Reference": "iGZXKocK9ky6RtSVKH6LkQ/KTd3ZPEkS02WaiP0NBJwfw",
+  "ParentRef": "iGZXKocK9ky6RtSVKH6LkQ/A6kCJ2Xw9EGTo8gKDTfNeg",
+  "Created": "2025-11-19T18:56:02.6159906Z",
+  "Updated": "2025-11-19T18:56:02.6159906Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
